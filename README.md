@@ -1,6 +1,6 @@
 # ShopEasy Marketing Insights -- Project overview 
 ---
-ShopEasy is an online retail company that offers a wide range of consumer products through its digital platform. The company is facing **reduced customer engagement and conversion rates** despite launching several new online marketing campaigns. This project aims to analyze the business data via various KPIs and provide actionable insights and recommendations to different stakeholders. 
+#### ShopEasy is an online retail company that offers a wide range of consumer products through its digital platform. The company is facing **reduced customer engagement and conversion rates** despite launching several new online marketing campaigns. This project aims to analyze the business data via various KPIs and provide actionable insights and recommendations to different stakeholders. 
 
 ---
 ## KPIs
@@ -24,6 +24,9 @@ The dataset consists of 6 tables: customers, products, customer journey, custome
 
 ![ERD](https://github.com/eggchoo/ShopEasy-marketing-analysis/blob/main/ERD.png?raw=true)
 ---
+## Executive Overview
+This analysis evaluates ShopEasy’s conversion performance, customer engagement, and feedback trends to identify areas for improvement. Findings show strong seasonal conversions but declining engagement and slightly below-target customer ratings. Targeted marketing, refreshed content strategies, and service enhancements are recommended to boost overall performance and customer satisfaction.
+
 **[View the Power BI Interactive Dashboard here](https://app.powerbi.com/links/ZRnbstLhCp?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=519eae8b-b62d-47ab-b44d-3dfc1c9fd223)**
 ![Power BI Dashboard](https://github.com/eggchoo/ShopEasy-marketing-analysis/blob/main/bi_overview.png?raw=true)
 
