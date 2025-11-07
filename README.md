@@ -10,14 +10,11 @@
 --- 
 ## Goals for this project
 - **Increase Conversion Rates**:
-   - **Goal**: Identify factors impacting the conversion rate and provide recommendations to improve it.
-   - **Insight**: Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
+   - Highlight key stages where visitors drop off and suggest improvements to optimize the conversion funnel.
 - **Enhance Customer Engagement**:
-   - **Goal**: Determine which types of content drive the highest engagement. 
-   - **Insight**: Analyze interaction levels with different types of marketing content to inform better content strategies.
+   - Analyze interaction levels with different types of marketing content to inform better content strategies.
 - **Improve Customer Feedback Scores**:
-   - **Goal**: Understand common themes in customer reviews and provide actionable insights.
-   - **Insight**: Identify recurring positive and negative feedback to guide product and service improvements.
+   - Identify recurring positive and negative feedback to guide product and service improvements.
 ---
 ## Data structure 
 - The dataset contains _**100 customers, 1,363 customer reviews, 4,623 customer engagement and 4,011 customer journeys over 2023 to 2025**_. 
@@ -28,7 +25,8 @@
 ![ERD](https://github.com/eggchoo/ShopEasy-marketing-analysis/blob/main/ERD.png?raw=true)
 ---
 ## Executive Overview
-This analysis evaluates ShopEasy’s conversion performance, customer engagement, and feedback trends to identify areas for improvement. Findings show strong seasonal conversions but declining engagement and slightly below-target customer ratings. Targeted marketing, refreshed content strategies, and service enhancements are recommended to boost overall performance and customer satisfaction.
+- This analysis evaluates ShopEasy’s conversion performance, customer engagement, and feedback trends to identify areas for improvement. Findings show _**strong seasonal conversions but declining engagement**_ and _**slightly below-target customer ratings**_.
+- _**Targeted marketing, refreshed content strategies, and service enhancements**_ are recommended to boost overall performance and customer satisfaction.
 
 **[View the Power BI Interactive Dashboard here](https://app.powerbi.com/links/ZRnbstLhCp?ctid=6f0bb72f-5377-4ddf-936a-b6c72bf21ae2&pbi_source=linkShare&bookmarkGuid=519eae8b-b62d-47ab-b44d-3dfc1c9fd223)**
 ![Power BI Dashboard](https://github.com/eggchoo/ShopEasy-marketing-analysis/blob/main/bi_overview.png?raw=true)
@@ -80,7 +78,7 @@ This analysis evaluates ShopEasy’s conversion performance, customer engagement
 **Opportunities for Improvement**  
 - The presence of **mixed positive and mixed negative sentiments** highlights opportunities to strengthen customer satisfaction further. By addressing the specific issues mentioned in these reviews—such as product quality, delivery experience, or customer support; ShopEasy can potentially transform moderately satisfied customers into highly satisfied ones, thereby improving overall ratings and customer loyalty.  
 --- 
-## **Stakeholder Breakdown of Recommended Actions**
+## **Recommendations by stakeholders**
 
 #### **1. Increase Conversion Rates** 
 - **Marketing Team** – Lead targeted campaigns for high-performing product categories (e.g., **Kayaks**, **Ski Boots**, **Baseball Gloves**). Plan and execute **seasonal promotions** and personalized advertisements during peak months such as **January** and **September**.  
