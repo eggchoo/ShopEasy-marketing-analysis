@@ -20,7 +20,10 @@
    - **Insight**: Identify recurring positive and negative feedback to guide product and service improvements.
 ---
 ## Data structure 
-The dataset consists of 6 tables: customers, products, customer journey, customer reviews, customer engagement, and customer reviews with sentiment. Calendar and calculations were calculated tables added for the purpose of creating the dashboard. 
+- The dataset contains _**100 customers, 1,363 customer reviews, 4,623 customer engagement and 4,011 customer journeys over 2023 to 2025**_. 
+- The dataset consists of 6 tables: customers, products, customer journey, customer reviews, customer engagement, and customer reviews with sentiment. 
+- Calendar and calculations were calculated tables added for the purpose of creating the dashboard.
+  
 
 ![ERD](https://github.com/eggchoo/ShopEasy-marketing-analysis/blob/main/ERD.png?raw=true)
 ---
